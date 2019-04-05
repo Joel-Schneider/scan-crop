@@ -8,7 +8,7 @@ Takes "A4" jpg images that have been scanned in at 1200dpi, and crops them to A4
 
 
 REQUIRES:
-======-
+======
 jpegtran
 
 
